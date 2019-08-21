@@ -25,6 +25,9 @@ _There are currently no known bugs or issues in this code_
 
 _If you run into any issues or bugs feel free to contact us at 503-923-1243 or email us at Pigs@gmail.com_
 
+## Specs
+_https://docs.google.com/document/d/1Lm5pZwn_4Qz14F5Tsz9_8ce9oojpsrDlY59BuBThFyo/edit?usp=sharing_
+
 ## Technologies Used
 
 _We used bootstrap as well as jQuery and JavaScript and HTML in order to make this website_
